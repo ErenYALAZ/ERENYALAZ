@@ -113,11 +113,14 @@ Akademik bir proje kapsamında gerçek sektör problemlerine çözüm sunan Pyth
 ### Backend & Diller
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ### Veritabanı
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
@@ -152,6 +155,7 @@ Akademik bir proje kapsamında gerçek sektör problemlerine çözüm sunan Pyth
 📊  Backend & API Geliştirme        ████████████████████  MVC, RESTful Prensipler
 🎨  Frontend & UI/UX                ████████████████░░░░  Responsive, Accessible Design
 🗄️  Veritabanı Tasarımı             ████████████████████  İlişkisel DB, Optimizasyon
+🤖  Yapay Zeka & Üretken AI         ████████████████████  LLM, Prompt Engineering, AI-Assisted Dev
 ```
 
 ---
@@ -167,6 +171,7 @@ Akademik bir proje kapsamında gerçek sektör problemlerine çözüm sunan Pyth
 | **Güvenlik Odaklı** | PDO, prepared statements, session yönetimi her projede uygulandı |
 | **Ölçeklenebilir Mimari** | MVC + katmanlı tasarım ile kolay bakım ve genişleme |
 | **Kullanıcı Merkezli** | Her arayüz mobil uyumlu ve erişilebilir tasarlandı |
+| **🤖 Yapay Zeka Kullanımı** | ChatGPT, Gemini, GitHub Copilot gibi üretken AI araçlarını geliştirme sürecine etkin şekilde entegre ediyorum |
 
 </div>
 
