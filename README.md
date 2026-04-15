@@ -132,21 +132,6 @@ Akademik bir proje kapsamında gerçek sektör problemlerine çözüm sunan Pyth
 
 </div>
 
----
-
-## 📊 GitHub İstatistiklerim
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErenYALAZ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErenYALAZ&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErenYALAZ&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="GitHub Streak" />
-</div>
-
----
-
 ## 💼 Sektör Deneyimi
 
 ```
@@ -171,7 +156,7 @@ Akademik bir proje kapsamında gerçek sektör problemlerine çözüm sunan Pyth
 | **Güvenlik Odaklı** | PDO, prepared statements, session yönetimi her projede uygulandı |
 | **Ölçeklenebilir Mimari** | MVC + katmanlı tasarım ile kolay bakım ve genişleme |
 | **Kullanıcı Merkezli** | Her arayüz mobil uyumlu ve erişilebilir tasarlandı |
-| **🤖 Yapay Zeka Kullanımı** | ChatGPT, Gemini, GitHub Copilot gibi üretken AI araçlarını geliştirme sürecine etkin şekilde entegre ediyorum |
+| **🤖 Yapay Zeka Kullanımı** | Claude, ChatGPT, Gemini, GitHub Copilot , gitbash , codex gibi üretken AI araçlarını geliştirme sürecine etkin şekilde entegre ediyorum |
 
 </div>
 
