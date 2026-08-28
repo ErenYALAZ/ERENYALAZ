@@ -87,18 +87,24 @@ MIT lisanslı, Python ile geliştirilmiş tam kapsamlı online sınav yönetim p
 </td>
 <td width="50%" valign="top">
 
-### 🏢 Sektör Kampüste Projesi
-**[→ Repoya Git](https://github.com/ErenYALAZ/220502007_ERENYALAZ_SektorKampuste)**
+### ⚡ Elektrik Tüketimi & Karbon Ayak İzi Tahmini
+**[→ Repoya Git](https://github.com/ErenYALAZ/Machine-Learning-Basedd-Electricity-Consumption-Forecasting-and-Carbon-Footprint-Analysis)**
 
-Akademik bir proje kapsamında gerçek sektör problemlerine çözüm sunan Python tabanlı uygulama.
+**TÜBİTAK 2209-A** destekli, Türkiye'nin 2030 elektrik talebini ve karbon salımını tahmin eden üç aşamalı makine öğrenmesi hattı.
 
 **Öne Çıkan Özellikler:**
-- 🔍 Veri analizi ve işleme
-- 🤖 Algoritma optimizasyonu
-- 📊 Raporlama ve görselleştirme
+- 🔗 Üç aşamalı zincir — dışsal değişken → elektrik talebi → CO₂
+- 🤖 7 model karşılaştırması (LSTM, XGBoost, CatBoost, ARIMA…)
+- 📈 R² = 0.9738 · MAPE %2.57 (elektrik talebi)
+- 🧪 Walk-forward CV + Optuna ile hiperparametre araması
+- 🔍 SHAP ile değişken katkı analizi
+- 📊 React tabanlı interaktif sonuç paneli
 
 **Teknolojiler:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-016E5B?style=flat-square)
 
 </td>
 </tr>
